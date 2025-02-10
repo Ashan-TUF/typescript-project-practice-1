@@ -1,0 +1,26 @@
+{
+  "name": "typescript-training-project-1",
+  "version": "1.0.0",
+  "description": "A TypeScript project for testing and experimentation. This repository explores various TypeScript features, including type safety, interfaces, classes, and advanced concepts. It also includes testing setups using Jest and other tools for ensuring code quality. Let me know if you want to customize it further! 😊",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashan-TUF/typescript-project-practice-1.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Javascript"
+  ],
+  "author": "Ashan Kavindu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashan-TUF/typescript-project-practice-1/issues"
+  },
+  "homepage": "https://github.com/Ashan-TUF/typescript-project-practice-1#readme",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
